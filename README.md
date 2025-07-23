@@ -1,4 +1,4 @@
-### CAEML-II
+### CAMEL-II
 COR1-A CME 2D Catalog:
 http://aso-s.pmo.ac.cn/feature/#/CME_2d_catalog
 
